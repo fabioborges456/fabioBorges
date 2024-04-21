@@ -1,5 +1,5 @@
 # Hello  Welcome! My name isbFabio Borges👋😀
-Cursando Análise e Desenvolvimento de Sistemas 04/04 - Previsão de conclusão 24/07
+Cursando Análise e Desenvolvimento de Sistemas 04/04 - Previsão de conclusão 24/07/2024
 
 ### Main skills:
 ![ html](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=#E44c25&textColor=0D1117)
